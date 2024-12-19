@@ -21,8 +21,8 @@ Users should be able to:
 
 -Add User-
 
-![photo](./assets/preview/AddUser-0.png)
-![photo](./assets/preview/AddUser-1.png)
+![photo](./assets/preview/addUser-0.png)
+![photo](./assets/preview/addUser-1.png)
 
 -Edit User-
 
