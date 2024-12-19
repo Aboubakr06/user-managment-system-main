@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://kaleidoscopic-profiterole-f86bff.netlify.app/)
+- Live Site URL: [Live Site](https://kaleidoscopic-profiterole-f86bff.netlify.app/)
 
 ## My process
 
